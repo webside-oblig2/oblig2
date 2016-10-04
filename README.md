@@ -6,4 +6,4 @@ Her er alle de ferdige filene/hovedfilene
 
 
 
-Medlemmer: Arthur, Oscar
+Medlemmer: Arthur, Oscar og Alexander
