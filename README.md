@@ -4,5 +4,5 @@ Her er filene som blir endret, før de endrer hovedfilen i "master" branchen
 
 
 Mitt navn er Oscar Aam.
-Arthur er også her
+Arthur er også her,
 Alexander og :)
